@@ -2,7 +2,8 @@ use std::sync::{Arc, Mutex, RwLock};
 use std::thread;
 
 // Изменяемый через RWLock счетчик
-// parking_lot::RwLock быстрее
+// прим.: parking_lot::RwLock - быстрее стандартного RWLock
+
 fn main() {
     let counter = Arc::new(RwLock::new(0));
 

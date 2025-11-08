@@ -8,7 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/04_arc/arc/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05_vec/vec/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_06_mutex/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/_07_lock/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_07_rwlock/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_08_atomic_arc/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/01_borrowing/target" />
       <excludeFolder url="file://$MODULE_DIR$/02_atomics/atomics/target" />
       <excludeFolder url="file://$MODULE_DIR$/rustlings/target" />
@@ -16,7 +17,8 @@
       <excludeFolder url="file://$MODULE_DIR$/04_arc/arc/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_vec/vec/target" />
       <excludeFolder url="file://$MODULE_DIR$/_06_mutex/target" />
-      <excludeFolder url="file://$MODULE_DIR$/_07_lock/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_07_rwlock/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_08_atomic_arc/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
