@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="EMPTY_MODULE" version="4">
-  <component name="NewModuleRootManager">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/02_atomics/atomics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_relax_memory/relax/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04_arc/arc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05_vec/vec/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_06_mutex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_07_lock/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/01_borrowing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/02_atomics/atomics/target" />
       <excludeFolder url="file://$MODULE_DIR$/rustlings/target" />
+      <excludeFolder url="file://$MODULE_DIR$/03_relax_memory/relax/target" />
+      <excludeFolder url="file://$MODULE_DIR$/04_arc/arc/target" />
+      <excludeFolder url="file://$MODULE_DIR$/05_vec/vec/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_06_mutex/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_07_lock/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
