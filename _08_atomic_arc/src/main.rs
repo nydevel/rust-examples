@@ -4,6 +4,8 @@ use std::sync::{
 };
 use std::thread;
 
+
+
 fn main() {
     let counter = Arc::new(AtomicUsize::new(0));
 
