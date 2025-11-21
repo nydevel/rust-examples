@@ -19,6 +19,7 @@ impl SpinLock {
     fn unlock(&self){
         self.locked.store(false, Ordering::Release)
     }
+    
 }
 
 fn main() {
