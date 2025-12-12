@@ -1,0 +1,7 @@
+[package]
+name = "_12_tokio_move"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1.39.0", features = ["full"] }

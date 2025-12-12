@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/_08_atomic_arc/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_10_lifetime/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/000_miniprojects/_01_axum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_12_tokio_move/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/01_borrowing/target" />
       <excludeFolder url="file://$MODULE_DIR$/02_atomics/atomics/target" />
       <excludeFolder url="file://$MODULE_DIR$/rustlings/target" />
@@ -23,6 +24,7 @@
       <excludeFolder url="file://$MODULE_DIR$/_08_atomic_arc/target" />
       <excludeFolder url="file://$MODULE_DIR$/_10_lifetime/target" />
       <excludeFolder url="file://$MODULE_DIR$/000_miniprojects/_01_axum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_12_tokio_move/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
